@@ -25,7 +25,7 @@ Se utilizaron datasets en formato CSV correspondientes a las actividades realiza
 ## 🧹 **Procesamiento y Análisis**
 - Se eligio para trabajar las siguientes columnas **tipo de actividad**, **público destinatario** e **inciativa del museo**
 El análisis incluyó:
-- **Limpieza y Normalización de Datos:¨** Se estandarizaron las actividades,público destinatario e incitiva. Además, se corrigieron errores de codificación y ortografía en los dataset y se eliminaron los valores nulos.
+- **Limpieza y Normalización de Datos:** Se estandarizaron las actividades,público destinatario e incitiva. Además, se corrigieron errores de codificación y ortografía en los dataset y se eliminaron los valores nulos.
 - **Análisis Descriptivo**: Se generaron **tablas de contingencia** y gráficos de barras para explorar la relación entre **tipo de actividad** y **público destinatario**, así como **tipo de actividad** e **iniciativa del museo**. Las visualizaciones facilitaron la identificación de patrones y tendencias.
 - **Análisis Predictivo**: Se aplicó el modelo **k-Nearest Neighbors (kNN)** para predecir la cantidad o tipo de actividades para el año 2025. Este modelo se entrenó utilizando los datos de 2023 y 2024 para proyectar las actividades más frecuentes y los públicos más propensos a asistir a ellas.
 - **Evaluación de Modelos**: Para evaluar el rendimiento del modelo predictivo, se utilizó la **matriz de confusión**, que permite visualizar la precisión de las predicciones y los errores por clase.
