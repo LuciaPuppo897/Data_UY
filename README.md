@@ -30,7 +30,7 @@ El análisis incluyó:
 - **Análisis Predictivo**: Se aplicó el modelo **k-Nearest Neighbors (kNN)** para predecir la cantidad o tipo de actividades para el año 2025. Este modelo se entrenó utilizando los datos de 2023 y 2024 para proyectar las actividades más frecuentes y los públicos más propensos a asistir a ellas.
 - **Evaluación de Modelos**: Para evaluar el rendimiento del modelo predictivo, se utilizó la **matriz de confusión**, que permite visualizar la precisión de las predicciones y los errores por clase.
 
-- 
+- Posteriormente se analizaron las conclusiones correspondientes según lo obtenido en el punto anterior
 
 ## 📈 **Próximos pasos**
 
